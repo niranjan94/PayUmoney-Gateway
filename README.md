@@ -2,6 +2,7 @@
 
 An easy to use library for the PayUMoney Payment Gateway
 
+> Project paused
 
 ## Copyright
 
